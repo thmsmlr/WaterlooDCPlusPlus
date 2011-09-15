@@ -1,0 +1,17 @@
+Waterloo DC ++
+
+By: Thomas Millar
+
+Version: 0.5
+
+This is an install script that is designed to make it easier for non-technical users to download, install, and configure the ShakesPeer DC++ client for the mac with the University of Waterloo's hub. 
+
+Setup:
+	1/	Download the project
+	2/	Open the downloaded folder
+	3/	Double-Click the installDC++.command file.
+	4/	Follow the onscreen steps, enter password when required.
+	
+To Do:
+	- Beautify the output in the Terminal to make it more user friendly.
+	- Test on Snow Leopard and Leopard

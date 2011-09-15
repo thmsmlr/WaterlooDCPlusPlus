@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'UsernameInstallerPlugin' target in the 'UsernameInstallerPlugin' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
